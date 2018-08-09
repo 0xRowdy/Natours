@@ -1,7 +1,50 @@
 @mixin clearfix {
-  &::after {
-    content: "";
-    display: table;
-    clear: both;
-  }
+	&::after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+}
+
+@mixin center-horizontal-vertical {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+// MEDIA QUERY MANAGER
+/*
+0 - 600px: 				Phone
+600px - 900px:			Tablet portrait
+900px - 1200px:			Tablet landscape
+[1200px - 1800px]:		Normal styles applied (designed for desktop)
+1800px - +: 			Big Desktop
+
+Breakpoint argument choices:
+- phone
+- tab-port
+- tab-land
+- big-design
+
+1em = 16px (default browser font size)
+This is a more ADA friendly solution because the font size will change if they have altered the default browser font size
+*/
+@mixin respond($breakpoint) {
+	@if $breakpoint == phone {
+		// 600px / 16px  = 37.5em
+		@media (max-width: 37.5em) { @content };
+	}
+	@if $breakpoint == tab-port {
+		// 900px / 16px = 56.25em
+		@media (max-width: 56.25em) { @content };
+	}
+	@if $breakpoint == tab-land {
+		// 1200px / 16px = 75em
+		@media (max-width: 75em) { @content };
+	}
+	@if $breakpoint == big-desktop {
+		// 1800px / 16px = 112.5
+		@media (min-width: 112.5em) { @content };
+	}
 }

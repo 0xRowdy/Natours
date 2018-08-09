@@ -4,11 +4,12 @@
   "description": "Landing page for natours",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "compile:sass": "npm sass/main.scss css/style.css -w"
   },
   "author": "Mark Roddy",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.9.2"
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.1.0"
   }
 }

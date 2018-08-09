@@ -7,6 +7,10 @@
 	box-shadow: $primary-shadow;
 	transition: transform .2s;
 
+	@include respond(tab-port) {
+		padding: 2rem;
+	}
+
 	&__icon {
 		font-size: 7rem;
 		margin-bottom: .5rem;
@@ -14,6 +18,9 @@
 		background-image: $text-gradient;
 		color: transparent;
 		-webkit-background-clip: text;
+		@include respond(tab-port) {
+			margin-bottom: 0;
+		}
 	}
 
 	&:hover {

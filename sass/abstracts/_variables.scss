@@ -25,6 +25,7 @@ $default-font-size: 1.6rem;
 // GRID
 $grid-width: 114rem;
 $gutter-vertical: 8rem;
+$gutter-vertical-small: 6rem;
 $gutter-horizontal: 6rem;
 
 // GRADIENT
@@ -32,7 +33,8 @@ $text-gradient: linear-gradient(to right, $color-primary-light, $color-primary-d
 
 // BOX SHADOW
 $primary-shadow: 0 1.5rem 4rem rgba($color-black, .15);
-$secondary-shadow: 0 1.5rem 4rem rgba($color-black, .40);
+$secondary-shadow: 0 1.5rem 4rem rgba($color-black, .4);
+$tab-port-shadow: 0 1.5rem 3rem rgba($color-black, .2);
 
 // BORDER RADIUS
 $primary-boarder-radius: 3px;
