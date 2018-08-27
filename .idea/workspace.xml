@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cb1ea6a-7bcb-4207-b6bb-050e80217b5d" name="Default" comment="Browser Support completed">
+    <list default="true" id="7cb1ea6a-7bcb-4207-b6bb-050e80217b5d" name="Default" comment="Final Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/_card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_story.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/_story.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,12 +17,12 @@
     <session id="1731755386">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,7 +30,7 @@
           <entry key="css" value="5" />
           <entry key="html" value="4" />
           <entry key="jpg" value="2" />
-          <entry key="json" value="5" />
+          <entry key="json" value="6" />
           <entry key="png" value="2" />
           <entry key="scss" value="21" />
         </counts>
@@ -49,7 +40,7 @@
           <entry key="CSS" value="5" />
           <entry key="HTML" value="4" />
           <entry key="Image" value="4" />
-          <entry key="JSON" value="5" />
+          <entry key="JSON" value="6" />
           <entry key="SCSS" value="21" />
         </counts>
       </usages-collector>
@@ -58,14 +49,14 @@
           <entry key="html" value="296" />
           <entry key="json" value="438" />
           <entry key="scss" value="664" />
-          <entry key="txt" value="25" />
+          <entry key="txt" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="296" />
           <entry key="JSON" value="438" />
-          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="PLAIN_TEXT" value="38" />
           <entry key="SCSS" value="664" />
         </counts>
       </usages-collector>
@@ -83,24 +74,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding>
-                <element signature="e#663#669#1" expanded="true" />
-                <element signature="e#725#731#1" expanded="true" />
-                <element signature="e#2654#2660#0" expanded="true" />
-                <element signature="e#5169#5175#0" expanded="true" />
-                <element signature="e#6155#6161#0" expanded="true" />
-                <element signature="e#7148#7154#0" expanded="true" />
-                <element signature="e#10032#10038#0" expanded="true" />
-                <element signature="e#11471#11477#0" expanded="true" />
-                <element signature="e#12706#12712#0" expanded="true" />
-                <element signature="e#13188#13195#1" expanded="true" />
-                <element signature="e#13341#13348#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/components/_card.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="134">
@@ -109,10 +87,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/abstracts/_mixins.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
+            <state relative-caret-position="663">
               <caret line="39" column="53" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="53" />
             </state>
           </provider>
@@ -201,7 +188,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="4" />
     <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="width" value="1436" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -219,34 +206,6 @@
               <item name="starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="starter" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starter" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starter" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starter" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="abstracts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starter" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starter" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -261,7 +220,7 @@
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.widerwille.afterglow.AfterglowConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -307,6 +266,7 @@
       <workItem from="1533784113141" duration="348000" />
       <workItem from="1533784464663" duration="1363000" />
       <workItem from="1533787956933" duration="735000" />
+      <workItem from="1534347405495" duration="1340000" />
     </task>
     <task id="LOCAL-00001" summary="Completed grid">
       <created>1531943706748</created>
@@ -350,11 +310,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533834788210</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Final Commit">
+      <created>1533933901263</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1533933901263</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120515000" />
+    <option name="totallyTimeSpent" value="122069000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,9 +333,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="4" y="23" width="1436" height="877" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21353066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21342756" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -379,7 +346,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32984293" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49960285" visible="true" weight="0.32509753" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49960285" weight="0.32509753" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.33550066" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039715" side_tool="true" weight="0.327454" />
       <window_info anchor="bottom" id="Log Viewer" order="11" />
@@ -472,7 +439,8 @@
     <MESSAGE value="Completed section 1 of form" />
     <MESSAGE value="Updated responsive images" />
     <MESSAGE value="Browser Support completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Browser Support completed" />
+    <MESSAGE value="Final Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sass/base/_animations.scss">
@@ -644,13 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/base/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
@@ -669,25 +630,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding>
-            <element signature="e#663#669#1" expanded="true" />
-            <element signature="e#725#731#1" expanded="true" />
-            <element signature="e#2654#2660#0" expanded="true" />
-            <element signature="e#5169#5175#0" expanded="true" />
-            <element signature="e#6155#6161#0" expanded="true" />
-            <element signature="e#7148#7154#0" expanded="true" />
-            <element signature="e#10032#10038#0" expanded="true" />
-            <element signature="e#11471#11477#0" expanded="true" />
-            <element signature="e#12706#12712#0" expanded="true" />
-            <element signature="e#13188#13195#1" expanded="true" />
-            <element signature="e#13341#13348#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/abstracts/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
+        <state relative-caret-position="663">
           <caret line="39" column="53" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="53" />
         </state>
       </provider>
@@ -696,6 +644,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="144" column="4" selection-start-line="144" selection-start-column="4" selection-end-line="145" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
